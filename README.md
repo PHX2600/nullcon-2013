@@ -6,5 +6,5 @@ IRC
 #URL: http://ctf.nullcon.net/home.php
 
 #LOGIN: 
-#Username: AltF4
+#Username: Phx2600
 #Password: BockJidas8
