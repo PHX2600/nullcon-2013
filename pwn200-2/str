@@ -1,0 +1,48 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libc.so.6
+_IO_stdin_used
+socket
+strcpy
+exit
+htons
+inet_ntoa
+strncpy
+signal
+fork
+listen
+select
+getpid
+__assert_fail
+printf
+strlen
+send
+memset
+bind
+shutdown
+recv
+inet_addr
+close
+strchr
+accept
+__libc_start_main
+ntohs
+GLIBC_2.0
+PTRh@
+[^_]
+[^_]
+First name not found
+Last name not found
+Thank you ;)
+Enter Identification to register with the system: 
+Your connection is being timed out.
+Child exit (%d)
+SIGSEGV (%d)
+SIGABRT (%d)
+srv.c
+srv_fd > 0
+0.0.0.0
+!bind(srv_fd, (struct sockaddr*) &sin, sizeof(sin))
+Received client from %s:%d
+Processing client: pid: %d socket: %d
+srv_init
