@@ -1,10 +1,17 @@
-IRC
-===
+Event Info
+----------
 
-#phx2600.ctf on Freenonde
+http://ctf.nullcon.net/home.php
 
-#URL: http://ctf.nullcon.net/home.php
+### LOGIN
 
-#LOGIN: 
-#Username: Phx2600
-#Password: BockJidas8
+    User:   Phx2600
+    Pass:   BockJidas8
+
+
+Colaborate on IRC
+-----------------
+
+*Server:* irc.freenode.net:6667
+
+*Channel:* #phx2600.ctf
