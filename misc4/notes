@@ -1,0 +1,1 @@
+looks like there is a binary file in the PDF, in output4 you can see the code references, but it will need to be filtered from the text file or possiby re-parsed using the py file in the folder.  
